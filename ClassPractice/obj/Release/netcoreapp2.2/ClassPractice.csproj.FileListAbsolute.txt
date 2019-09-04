@@ -1,0 +1,12 @@
+C:\Users\ankadam\source\repos\ClassPractice\ClassPractice\obj\Release\netcoreapp2.2\ClassPractice.csprojResolveAssemblyReference.cache
+C:\Users\ankadam\source\repos\ClassPractice\ClassPractice\obj\Release\netcoreapp2.2\ClassPractice.csproj.CoreCompileInputs.cache
+C:\Users\ankadam\source\repos\ClassPractice\ClassPractice\obj\Release\netcoreapp2.2\ClassPractice.AssemblyInfoInputs.cache
+C:\Users\ankadam\source\repos\ClassPractice\ClassPractice\obj\Release\netcoreapp2.2\ClassPractice.AssemblyInfo.cs
+C:\Users\ankadam\source\repos\ClassPractice\ClassPractice\bin\Release\netcoreapp2.2\ClassPractice.deps.json
+C:\Users\ankadam\source\repos\ClassPractice\ClassPractice\bin\Release\netcoreapp2.2\ClassPractice.runtimeconfig.json
+C:\Users\ankadam\source\repos\ClassPractice\ClassPractice\bin\Release\netcoreapp2.2\ClassPractice.runtimeconfig.dev.json
+C:\Users\ankadam\source\repos\ClassPractice\ClassPractice\bin\Release\netcoreapp2.2\ClassPractice.dll
+C:\Users\ankadam\source\repos\ClassPractice\ClassPractice\bin\Release\netcoreapp2.2\ClassPractice.pdb
+C:\Users\ankadam\source\repos\ClassPractice\ClassPractice\obj\Release\netcoreapp2.2\ClassPractice.dll
+C:\Users\ankadam\source\repos\ClassPractice\ClassPractice\obj\Release\netcoreapp2.2\ClassPractice.pdb
+C:\Users\ankadam\source\repos\ClassPractice\ClassPractice\obj\Release\netcoreapp2.2\ClassPractice.csprojAssemblyReference.cache
